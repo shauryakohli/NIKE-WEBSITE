@@ -1,0 +1,211 @@
+#a1
+{
+    margin-left: 1020px;
+}
+#a2
+{
+    margin-right: 20px;
+}
+#a3
+{
+    margin-right: 10px;
+}
+#a4
+{
+    margin-left: 270px;
+}
+
+.f1
+{
+    margin: 6px;
+}
+
+#sub
+{
+    background-color: black;
+    color: cornsilk;
+}
+.AirMax
+{
+    margin-left: 200px;
+}
+#a6
+{
+    margin-left: 80px;
+}
+#a7
+{
+    margin-left: 150px;
+    margin-bottom: 10px;
+}
+.text2
+{
+    margin-left: 80px;
+    margin-top: 400px;
+}
+#w
+{
+    margin-left: 950px;
+}
+.row {
+    display: flex;
+  }
+  
+  .column {
+    flex: 33.33%;
+    padding: 5px;
+  }
+
+  .textt
+  {
+      display: flex;
+  }
+  .tex
+  {
+    flex: 33.33%;
+    padding: 25px;
+  }
+  .textt {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  
+  /* Bottom left text */
+  .bottom-left1 {
+    position: absolute;
+    bottom: 28px;
+    left: 25px;
+  }
+  .bottom-left2 {
+    position: absolute;
+    bottom: 28px;
+    left: 25px;
+  }
+  .bll1
+  {
+    position:absolute;
+    bottom: 28px;
+    left: 785px;
+  }
+  .bll2
+  {
+    position: absolute;
+    bottom: 28px;
+    left: 785px;
+  }
+  .aa
+  {
+      text-align: center;
+  }
+  .video
+  {
+      margin-left:350px;
+      bottom:25px;
+  }
+  .bottomleft1 {
+    position: relative;
+    margin-left: 20px;
+    bottom: 150px;
+    color: white;
+  }
+  .bottomleft2 {
+    position: relative;
+    bottom: 170px;
+    margin-left: 20px;
+    color: white;
+  }
+  .bottomleft3 {
+    position: relative;
+    bottom: 180px;
+    margin-left: 20px;
+  }
+  .pegasus
+  {
+      text-align: center;
+  }
+  .r1 {
+    display: flex;
+  }
+  
+  .c1 {
+    flex: 33.33%;
+    padding: 5px;
+  }
+  .r2 {
+    display: flex;
+  }
+  
+  .c2 {
+    flex: 33.33%;
+    padding: 3px;
+  }
+  .bu
+  {
+      position: relative;
+      bottom: 50px;
+      left:20px;
+  }
+  .lists
+  {
+    display: flex
+  }
+  .icons {
+    flex: 23.33%;
+    padding: 3px;
+    margin-left: 100px;
+  }
+  .ending
+  {
+    display: flex;
+    background-color:orange;
+  }
+  .contents
+  {
+    flex: 53.33%;
+    padding: 3px;
+    margin-left: 10px;
+    color: white;
+  }
+  .ani
+  {
+    margin-left: 300px;
+  }
+  a:link {
+    color:black;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color:black;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color:pink;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  .wild
+  {
+    padding-bottom: 10px;
+    padding-top: -40px;
+  }
+ 
+
+  #image {
+    height: 256px;
+    width: 256px;
+  background: 
+  url("https://miro.medium.com/max/3072/1*WhDjw8GiV5o0flBXM4LXEw.png") 0px 0px;
+  }
+
+ 
